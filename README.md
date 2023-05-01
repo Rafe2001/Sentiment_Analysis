@@ -5,8 +5,11 @@ This project is a sentiment analysis tool built with Python that analyzes the se
 To run the tool, you need to have Python 3 installed on your system. You also need to install the following Python packages:
 
 nltk
+
 scikit-learn
+
 pandas
+
 numpy
 
 # How it Works
